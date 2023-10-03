@@ -6,5 +6,5 @@ In this Jupyter Notebook, I've applied LSTM RNN with Technical Indicators namely
 
 If anyone wants to brainstorm ideas or collab on a project, hit me up at:
 
-LinkedIn: www.linkedin.com/in/pritam-jaiswar-990276152
+LinkedIn: www.linkedin.com/in/pritam-jaiswar-990276152 
 Mail: pritamjaiswar1@gmail.com
